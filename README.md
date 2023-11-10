@@ -2,7 +2,7 @@
 
 ## Contexte du Projet
 
-Ce projet s'inscrit dans le cadre du [_IEEE GRSS Data Fusion Contest 2013_](http://www.classic.grss-ieee.org/community/technical-committees/data-fusion/2013-ieee-grss-data-fusion-contest/). Le Data Fusion Contest de l'IEEE GRSS (Geoscience and Remote Sensing Society) est un concours annuel organisé par les membres du chapitre GRSS de l'association IEEE. Ce challenge est ouvert à tous les chercheurs, doctorants, étudiants, etc., et vise à explorer des problématiques de fusion d'information pour des applications en télédétection.
+Pour ce projet, les données utilisées sont celles du [_IEEE GRSS Data Fusion Contest 2013_](http://www.classic.grss-ieee.org/community/technical-committees/data-fusion/2013-ieee-grss-data-fusion-contest/). Le Data Fusion Contest de l'IEEE GRSS (Geoscience and Remote Sensing Society) est un concours annuel organisé par les membres du chapitre GRSS de l'association IEEE. Ce challenge est ouvert à tous les chercheurs, doctorants, étudiants, etc., et vise à explorer des problématiques de fusion d'information pour des applications en télédétection.
 
 ## Données du Projet
 
