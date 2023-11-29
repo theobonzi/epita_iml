@@ -1,4 +1,4 @@
-# Projet de Classification de Pixels sur Images Hyperspectrales et LiDAR
+# 🌈 Projet de Classification de Pixels sur Images Hyperspectrales et LiDAR
 
 ## Contexte du Projet
 
