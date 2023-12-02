@@ -1,10 +1,11 @@
-![prediction](https://github.com/theobonzi/epita_machine_learning/assets/55917899/73814ded-2b4e-4ad8-9a2a-093b6850af3f)# 🌈 Projet de Classification de Pixels sur Images Hyperspectrales et LiDAR
+# 🌈 Projet de Classification de Pixels sur Images Hyperspectrales et LiDAR
 
 ## Contexte du Projet
 
 Pour ce projet, les données utilisées sont celles du [_IEEE GRSS Data Fusion Contest 2013_](http://www.classic.grss-ieee.org/community/technical-committees/data-fusion/2013-ieee-grss-data-fusion-contest/). Le Data Fusion Contest de l'IEEE GRSS (Geoscience and Remote Sensing Society) est un concours annuel organisé par les membres du chapitre GRSS de l'association IEEE. Ce challenge est ouvert à tous les chercheurs, doctorants, étudiants, etc., et vise à explorer des problématiques de fusion d'information pour des applications en télédétection.
 
-![rgb](https://github.com/theobonzi/epita_machine_learning/assets/55917899/b1d5174c-fc4f-4191-a792-75076703c5e7)
+![rgb](https://github.com/theobonzi/epita_machine_learning/assets/55917899/6c3258b7-a18e-4d4a-8965-ffc63bb5a0d0)
+
 ![prediction](https://github.com/theobonzi/epita_machine_learning/assets/55917899/38bc3440-1354-4659-af6b-b49d8369115d)
 
 ## Données du Projet
